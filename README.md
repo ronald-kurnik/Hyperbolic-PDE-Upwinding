@@ -1,6 +1,6 @@
-# Case 01 – Hyperbolic PDE Upwinding
+# Case A1 – Hyperbolic PDE Upwinding
 
-**File:** `01_hyperbolic_pde_upwinding.m`  
+**File:** `A1_hyperbolic_pde_upwinding.m`  
 ---
 
 ## 1. The Physics

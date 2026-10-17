@@ -1,8 +1,6 @@
 %% 01_hyperbolic_pde_upwinding.m
-% Interview-ready demo: 1-D linear advection (hyperbolic PDE)
 % Demonstrates first-order upwind, Lax-Friedrichs, and MUSCL (limited)
 % Relevant to: Staff CFD Modeling Engineer
-% "Do you have a favorite upwinding technique for hyperbolic PDEs?"
 %
 % PDE:  ∂u/∂t + a * ∂u/∂x = 0 ,  a > 0
 % Domain: periodic [0,1]

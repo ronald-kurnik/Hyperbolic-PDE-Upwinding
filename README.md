@@ -2,7 +2,7 @@
 
 **File:** `A1_hyperbolic_pde_upwinding.m`  
 ---
-
+![Hyperbolic](Hyperbolic PDE Upwinding.png)
 ## 1. The Physics
 
 We solve the simplest hyperbolic conservation law – the **linear advection equation**:

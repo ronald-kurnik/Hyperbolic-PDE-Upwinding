@@ -1,6 +1,9 @@
 # Case A1 – Hyperbolic PDE Upwinding
 
 ![Hyperbolic_PDE_Upwinding](Hyperbolic_PDE_Upwinding.png)
+![Hyperbolic_PDE_Upwinding_2](Hyperbolic_PDE_Upwinding_2.png)
+![Limiter_functions](Limiter_functions.png)
+
 **File:** `A1_hyperbolic_pde_upwinding.m`  
 ---
 
